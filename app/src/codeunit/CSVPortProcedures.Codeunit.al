@@ -16,7 +16,7 @@ codeunit 5157804 "CSV Port Procedures"
     begin
     end;
 
-    procedure CSVPortImpEx(CSVPort: Record "CSV Port"; CodeVar: Code[20]; Export: Boolean): Integer
+    procedure CSVPortImpEx(CSVPort: Record "CSV Port"; CodeVar: Code[20]; Export2: Boolean): Integer
     begin
     end;
 
