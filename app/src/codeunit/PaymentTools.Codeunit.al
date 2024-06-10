@@ -275,7 +275,7 @@ codeunit 5157892 "Payment Tools"
     begin
     end;
 
-    procedure CheckNewHead(PaymentType: Record "Payment Type Code"; var PaymentHead: Record "Payment Proposal Head"; var PaymentHead3: Record "Payment Proposal Head"; PmtMethod: Record "Payment Method"; var LimitExceeded: Boolean; Amount: Decimal; EntryCounter: Integer; MaxDocNewHead: Integer; DocNo: Code[35]; ExtDocNo: Code[35]; var PurposeText: Text[500])
+    procedure CheckNewHead(PaymentType: Record "Payment Type Code"; var PaymentHead: Record "Payment Proposal Head"; var PaymentHead3: Record "Payment Proposal Head"; PmtMethod: Record "Payment Method"; var LimitExceeded: Boolean; Amount: Decimal; EntryCounter: Integer; MaxDocNewHead: Integer; DocNo: Code[35]; ExtDocNo: Code[35]; var PurposeText2: Text[500])
     begin
     end;
 
@@ -405,11 +405,11 @@ codeunit 5157892 "Payment Tools"
     begin
     end;
 
-    procedure PurposeText(var PaymentHead: Record "Payment Proposal Head"; var PaymentLine: Record "Payment Proposal Line"; PurposeText: Text[35]) PText: Text[250]
+    procedure PurposeText(var PaymentHead: Record "Payment Proposal Head"; var PaymentLine: Record "Payment Proposal Line"; PurposeText2: Text[35]) PText: Text[250]
     begin
     end;
 
-    procedure PurposeTextMaxLen(var PaymentHead: Record "Payment Proposal Head"; var PaymentLine: Record "Payment Proposal Line"; PurposeText: Text[35]) PText: Text[250]
+    procedure PurposeTextMaxLen(var PaymentHead: Record "Payment Proposal Head"; var PaymentLine: Record "Payment Proposal Line"; PurposeText2: Text[35]) PText: Text[250]
     begin
     end;
 
@@ -671,9 +671,11 @@ codeunit 5157892 "Payment Tools"
 
     procedure PurposeTextAddGL(var PaymentLine: Record "Payment Proposal Line"; PurposeTextVar: Text[150]; var Row: Integer; var Rows: array[15, 2] of Text[35]; Width: Integer; var PaymentHeader: Record "Payment Proposal Head"; PmtType: Record "Payment Type Code"; var TooLongTextInserted: Boolean)
     begin
+        Row := 0;
     end;
 
     procedure PurposeTextAdd(var PaymentLine: Record "Payment Proposal Line"; PurposeTextVar: Text[35]; var Row: Integer; var Rows: array[15, 2] of Text[35]; Width: Integer; var PaymentHeader: Record "Payment Proposal Head"; PmtType: Record "Payment Type Code"; var TooLongTextInserted: Boolean)
     begin
+        Row := 0;
     end;
 }

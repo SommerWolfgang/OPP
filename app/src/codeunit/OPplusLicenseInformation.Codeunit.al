@@ -25,6 +25,8 @@ codeunit 5158000 "OPplus License Information"
 
     procedure GetFurtherLicenseInfo(TableID: Integer; var IsLicensed: Boolean; var IsActive: Boolean)
     begin
+        IsLicensed := false;
+        IsActive := false;
     end;
 
     procedure IsBasics(): Boolean
@@ -217,7 +219,7 @@ codeunit 5158000 "OPplus License Information"
     begin
     end;
 
-    procedure SetPostAtOnce(SetPostatOnce: Boolean)
+    procedure SetPostAtOnce(SetPostatOnce2: Boolean)
     begin
     end;
 

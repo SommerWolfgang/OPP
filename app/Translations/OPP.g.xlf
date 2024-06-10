@@ -4318,6 +4318,746 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Object Run - Field Start ID - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1806224934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OPplus Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 713235197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action if Balance in Application &lt;&gt; 0</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Action if Balance in Appl. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 713235197 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Line,Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Action if Balance in Appl. - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 485332616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Document Date From</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Allow Document Date From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1677587827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Document Date To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Allow Document Date To - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1553239805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Multiple Payment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Allow Multiple Payment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2915917014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Always fill Application Info</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Always fill Application Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1050766934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Customer Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Cust. Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 864450951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Customer Ext. Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Cust. Ext. Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1481404654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Cust. Ledger Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Cust. Ledger Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1952230330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Customer Bank Acc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Customer Bank Acc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 198759920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Pmt. Transactions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Pmt. Transactions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 4265178341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Purch. Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Purch. Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3457679100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Reminder/Fin. Charge</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Reminder/Fin. Charge - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1685066851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Sales Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Sales Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 4250330544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Sales Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Sales Shipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1153772878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Vendor Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Vend. Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1096668927 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Ext. Vendor Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Vend. Ext. Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3965501122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Vendor Bank Acc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Vendor Bank Acc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1077042899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze Vendor Ledger Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Analyze Vendor Ledger Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2044393959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Association Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Association Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3496125962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Interface</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Bank Import Interface - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2170552495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked Bank Account Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Blocked Bank Acc. Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 764076432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calc. Gain/Loss on G/L Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Calc Gain/Loss on G/L Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 764076432 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard,Yes,No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Calc Gain/Loss on G/L Account - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3411311729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call before Directory Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Call before Directory Import - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2804779621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CAMT Archive File Mask</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field CAMT Archive File Mask - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 764987788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CAMT Backup Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field CAMT Backup Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3296360664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CAMT File Extension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field CAMT File Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2654236357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CAMT Import Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field CAMT Import Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3904158604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Book Balance Check</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Cash Book Balance Check - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3904158604 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>On Input,On Post,None</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Cash Book Balance Check - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 157411505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close Ext. Apply with Enter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Close Ext. Apply with Enter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3344462914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Codeunit Webservice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Codeunit Webservice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2822997630 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color Appl. Status Accounted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Color Appl. Status Accounted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1014880812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color Appl. Status Finished</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Color Appl. Status Finished - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2673290154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color Appl. Status Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Color Appl. Status Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 4041589721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color Appl. Status System</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Color Appl. Status System - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3285511896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color Applied Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Color Applied Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3792929142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color Local Apply</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Color Local Application - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1482574360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color Partial Apply</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Color Partial Application - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 733599281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commit after n imported Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Commit after Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2800847711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Consider Payment Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Consider Payment Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1135172496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Local Temporary File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Create Local Temporary File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1961938368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Pmt. Import Logfile</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Create Pmt. Import Logfile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3889324277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cust. Document No. Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Cust. Document No. Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 620394759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accept Customer accounting without entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Customer Acc. without Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3155706580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Balance Application</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Customer Balance Application - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 500171991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Days Due Consideration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Days Due Consideration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 935751031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Action if Balance in Application</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Def. Action if Bal. in Appl. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 935751031 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Create a new line,Keep payment open,Post as payment discount,Create a new G/L Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Def. Action if Bal. in Appl. - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3536041195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Application Bal. Credit Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Def. Appl. Bal. Credit Acc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 386056086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Application Bal. Debit Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Def. Appl. Bal. Debit Acc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3706957521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default G/L Acc. for BC Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Default G/L Acc. for BC Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3476763830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default URL for ECB Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Default URL for ECB Import - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3476763830 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Latest,Last 90 Days,Previous</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Default URL for ECB Import - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3733851430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Import File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Delete Import File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3733851430 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ask,Yes,No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Delete Import File - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 53233135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dim. for Apply Line Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Dim. for Apply Line Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 53233135 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gen. Jnl. Line,Applied Entry,Not Empty Gen. Jnl. Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Dim. for Apply Line Details - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 768913269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions for Pmt. Disc. Corr.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Dim. for Pmt. Disc. Corr. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 768913269 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Entries,Gen. Jnl. Line (Always),Not Empty Gen. Jnl. Line,G/L Account (Always),Gen. Jnl. Line (if empty VAT Entry),G/L Account (if empty VAT Entry)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Dim. for Pmt. Disc. Corr. - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3692438562 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date filled by</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Document Date filled by - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3692438562 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Date,Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Document Date filled by - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1666347110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ESC equals OK in Ext. Apply</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field ESC equals OK in Ext. Apply - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3957861924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exch. Rate FCY applies FCY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Exch. Rate FCY applies FCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3957861924 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard,Original Factor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Exch. Rate FCY applies FCY - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3105119294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exch. Rate LCY applies FCY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Exch. Rate LCY applies FCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3105119294 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard,GenJnlLine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Exch. Rate LCY applies FCY - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2160836664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ext. Cust. Document No. Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Ext. Cust. Document No. Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1410904464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ext. Vend. Document No. Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Ext. Vend. Document No. Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2433585791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Pmt. Import File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Filename Pmt. Interface File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 4122529008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter Customer Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Filter Customer Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2468780605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Filter Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1492055029 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Filter Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 447181245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hyperlink Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Hyperlink Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 967290127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Customer Bank Acc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Insert Customer Bank Acc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2288875687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Vendor Bank Acc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Insert Vendor Bank Acc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 243286316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Keep Dimensions Validating Balance Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Keep Dim. Validating Bal. Acc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2231249637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Limit Apply Pmt. Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Limit Apply Pmt. Discount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2767415132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Logfile Path Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Logfile Path Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1857509804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Length Customer Ext. Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Max. Length Cust. Ext. Doc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1494028149 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Length Customer Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Max. Length Customer Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 383203919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Length Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Max. Length Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 4076084621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Length Vendor Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Max. Length Vendor Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3706759301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Length Vendor Ext. Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Max. Length Vendor Ext. Doc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2389433351 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Length Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Max. Length Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2404444386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Length Customer Ext. Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Min. Length Cust. Ext. Doc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3665917543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Length Customer Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Min. Length Customer Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2222044381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Length Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Min. Length Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2007017663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Length Vendor Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Min. Length Vendor Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2674377559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Length Vendor Ext. Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Min. Length Vendor Ext. Doc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 728743957 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Length Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Min. Length Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3997307985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT940 Backup Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field MT940 Backup Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2452668909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT940 File Extension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field MT940 File Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 822370984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT940 Import Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field MT940 Import Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 365405775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Character Statement No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field No. of Character Statement No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1967439650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>On Hold Returned Direct Debit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field On Hold Returned Direct Debit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 117399170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Ext. Application with filter on "Applied only" if any.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Open Ext. App. with Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 7735878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount Tolance if Multiple Application</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Pmt. Disc. Tol. Multiple App. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 795668961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount if overpaid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Pmt. Discount if overpaid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 4192854434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pmt. Discount Tolerance %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Pmt. Discount Tolerance % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1882438705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pmt. Discount Tolerance Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Pmt. Discount Tolerance Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3392239312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pmt. Discount Tolerance Days</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Pmt. Discount Tolerance Days - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2871159981 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pmt. Import Interface Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Pmt. Import Interface Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 4212106393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pmt. Import Journal Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Pmt. Import Journal Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3784404106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Method Returned Direct Debit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Pmt. Method Code Returned DD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1204519470 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ext. Cust. Document No. Offset</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Poole Pos. Cust. Ext. Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2877184086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ext. Vend. Document No. Offset</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Poole Pos. Vend. Ext. Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2337260730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cust. Document No. Offset</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Poole Position Cust. Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 17858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vend. Document No. Offset</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Poole Position Vend. Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1787906408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Pmt. Sum</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Post Pmt. Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 135876116 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Method in Ext. Application</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Posting Method in Ext. App. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 135876116 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Application splitting (OPplus Standard),One Application Line (NAV Standard)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Posting Method in Ext. App. - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 4230729790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Cash Report when Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Print Cash Report when Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 527360962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Priority Search Accounts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Priority Search Accounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 527360962 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry before Account,Account before Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Priority Search Accounts - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1156157212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Priority Search Bank Accounts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Priority Search Bank Accounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1156157212 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Before Purpose Texts,After Purpose Texts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Priority Search Bank Accounts - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2370687307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Priority Search Pmt. Transactions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Priority Search Pmt. Transact. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2370687307 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Before Purpose Texts,After Purpose Texts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Priority Search Pmt. Transact. - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1111383182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proxy Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Proxy Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3142690791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proxy Port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Proxy Port - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3585297042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regard On Hold on Cust. Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Regard On Hold on Cust. Ent. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 638330362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regard On Hold on Vend. Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Regard On Hold on Vend. Ent. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1968693176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search for Linked Entries via Association No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Search Cust./Vend. over Assoc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2564353721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Skip Leading Zero</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Skip Leading Zero - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3778312864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Split Posting with Ext. Appl.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Split Posting with Ext. Appl. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2691910462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Ext. Application in Edit Mode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Start EA editable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2396109817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text Application Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Text Application Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3591951245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text Balance Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Text Balance Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 822550324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text Pmt. Application Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Text Pmt. Application Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3694136115 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text Pmt. Sum Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Text Pmt. Sum Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3055542569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text Rounding Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Text Rounding Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2422154403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unzip CAMT Archive</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Unzip CAMT Archive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 331470661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Update Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2411960918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL all previous Rates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field URL all previous Rates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 3239522667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL latest Rates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field URL latest Rates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 284695033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL Rates latest 90 Days</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field URL Rates latest 90 Days - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 1046738262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Account-Texts for Entries Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Use Acc.-Texts for Entries Sa. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 142981564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Account-Texts for Entries Purchase</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Use Account-Texts for Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 639392480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Appl. Texts in Single Application</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Use Appl. Texts in Single App. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 917768378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Valid Signs in Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Valid Signs in Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2688398253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vend. Document No. Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Vend. Document No. Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 2226371727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accept Vendor accounting without entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Vendor Acc. without Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 4058667724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Balance Application</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Vendor Balance Application - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1806224934 - Field 613850988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wait n ms after Commit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OPplus Setup - Field Wait MS after Commit - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1038362033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Comment Line</source>
           <note from="Developer" annotates="general" priority="2"></note>

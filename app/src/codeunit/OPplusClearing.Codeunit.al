@@ -32,8 +32,9 @@ codeunit 5157893 "OPplus Clearing"
     begin
     end;
 
-    procedure Export_SEPA_XML_New(_PmtProposal: Record "Payment Proposal"; PmtType: Code[10]; RepeatClearing: Boolean): Boolean
+    procedure Export_SEPA_XML_New(_PmtProposal: Record "Payment Proposal"; PmtType: Code[10]; RepeatClearing2: Boolean): Boolean
     begin
+        RepeatClearing2 := false;
     end;
 
     procedure SepaPstlAdr(StreamVar: OutStream; Orderer: Boolean; CompInfo: Record "Company Information"; PmtHead2: Record "Payment Proposal Head"; Extd: Boolean; _IX: Integer; _Indent: Boolean)
@@ -120,8 +121,10 @@ codeunit 5157893 "OPplus Clearing"
     begin
     end;
 
-    procedure CreateFiles(var Successful: Boolean; var _PmtProposal: Record "Payment Proposal"; RepeatClearing: Boolean)
+    procedure CreateFiles(var Successful: Boolean; var _PmtProposal: Record "Payment Proposal"; RepeatClearing2: Boolean)
     begin
+        Successful := false;
+        RepeatClearing2 := false;
     end;
 
     procedure MyValidateAmountLCY(var _GenJnlLine: Record "Gen. Journal Line")
