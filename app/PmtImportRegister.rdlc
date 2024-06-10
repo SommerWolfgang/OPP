@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+        <Style />
+      </Body>
+      <Width>6.5in</Width>
+      <Page>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParameters>
+    <ReportParameter Name="Page_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Page_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Page_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Report_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Report_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Report_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="TextIBAN_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>TextIBAN_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>TextIBAN_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="TextSwift_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>TextSwift_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>TextSwift_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Date_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Date_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Date_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Currency_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Currency_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Currency_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="ImpJnlNo_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ImpJnlNo_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ImpJnlNo_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Valuta_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Valuta_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Valuta_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Posting_Date_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Posting_Date_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Posting_Date_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Amount_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Amount_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Amount_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Posting_Text_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Posting_Text_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Posting_Text_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Reason_Row_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Reason_Row_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Reason_Row_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Total_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Total_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Total_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="BalanceLastStatement_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>BalanceLastStatement_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>BalanceLastStatement_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="StatementEndingBalance_Lbl">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>StatementEndingBalance_Lbl</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>StatementEndingBalance_Lbl</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Statement_NoCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Statement_NoCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Statement_NoCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Statement_DateCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Statement_DateCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Statement_DateCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="ImportLine_in_Acc_NoCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ImportLine_in_Acc_NoCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ImportLine_in_Acc_NoCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="AmountCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>AmountCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>AmountCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="OrdererCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>OrdererCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>OrdererCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Account_OrdererCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Account_OrdererCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Account_OrdererCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="Bank_ReferenceCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Bank_ReferenceCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Bank_ReferenceCaption</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="ReferenceCaption">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>ReferenceCaption</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>ReferenceCaption</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="No">
+          <DataField>No</DataField>
+        </Field>
+        <Field Name="COMPANYNAME">
+          <DataField>COMPANYNAME</DataField>
+        </Field>
+        <Field Name="USERID">
+          <DataField>USERID</DataField>
+        </Field>
+        <Field Name="Bank_Name">
+          <DataField>Bank_Name</DataField>
+        </Field>
+        <Field Name="Bank_Swift_Code">
+          <DataField>Bank_Swift_Code</DataField>
+        </Field>
+        <Field Name="Bank_IBAN">
+          <DataField>Bank_IBAN</DataField>
+        </Field>
+        <Field Name="Statement_No">
+          <DataField>Statement_No</DataField>
+        </Field>
+        <Field Name="Statement_Date">
+          <DataField>Statement_Date</DataField>
+        </Field>
+        <Field Name="CurrencyCode">
+          <DataField>CurrencyCode</DataField>
+        </Field>
+        <Field Name="Balance_Last_Statement">
+          <DataField>Balance_Last_Statement</DataField>
+        </Field>
+        <Field Name="Statement_Ending_Balance">
+          <DataField>Statement_Ending_Balance</DataField>
+        </Field>
+        <Field Name="ImportLine_EntryNo">
+          <DataField>ImportLine_EntryNo</DataField>
+        </Field>
+        <Field Name="ImportLine_in_Acc_No">
+          <DataField>ImportLine_in_Acc_No</DataField>
+        </Field>
+        <Field Name="ImportLine_CurrencyID">
+          <DataField>ImportLine_CurrencyID</DataField>
+        </Field>
+        <Field Name="Value_Date">
+          <DataField>Value_Date</DataField>
+        </Field>
+        <Field Name="Posting_Date">
+          <DataField>Posting_Date</DataField>
+        </Field>
+        <Field Name="Import_Reg_No">
+          <DataField>Import_Reg_No</DataField>
+        </Field>
+        <Field Name="Amount">
+          <DataField>Amount</DataField>
+        </Field>
+        <Field Name="AmountFormat">
+          <DataField>AmountFormat</DataField>
+        </Field>
+        <Field Name="Posting_Desciption">
+          <DataField>Posting_Desciption</DataField>
+        </Field>
+        <Field Name="Orderer">
+          <DataField>Orderer</DataField>
+        </Field>
+        <Field Name="Bank_Orderer">
+          <DataField>Bank_Orderer</DataField>
+        </Field>
+        <Field Name="Account_Orderer">
+          <DataField>Account_Orderer</DataField>
+        </Field>
+        <Field Name="Bank_Reference">
+          <DataField>Bank_Reference</DataField>
+        </Field>
+        <Field Name="Reference">
+          <DataField>Reference</DataField>
+        </Field>
+        <Field Name="ReasonRow_1">
+          <DataField>ReasonRow_1</DataField>
+        </Field>
+        <Field Name="ReasonRow_2">
+          <DataField>ReasonRow_2</DataField>
+        </Field>
+        <Field Name="ReasonRow_3">
+          <DataField>ReasonRow_3</DataField>
+        </Field>
+        <Field Name="ReasonRow_4">
+          <DataField>ReasonRow_4</DataField>
+        </Field>
+        <Field Name="ReasonRow_5">
+          <DataField>ReasonRow_5</DataField>
+        </Field>
+        <Field Name="ReasonRow_6">
+          <DataField>ReasonRow_6</DataField>
+        </Field>
+        <Field Name="ReasonRow_7">
+          <DataField>ReasonRow_7</DataField>
+        </Field>
+        <Field Name="ReasonRow_8">
+          <DataField>ReasonRow_8</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>
